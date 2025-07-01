@@ -3,9 +3,9 @@
 import useEmblaCarousel from 'embla-carousel-react'
 import { ChevronLeft, ChevronRight, Scissors, Syringe, CarTaxiFront, Hotel, Clock } from 'lucide-react'
 import { MessageCircle } from 'lucide-react'
-import tutor1 from '../../../public/tutor1.png'
-import tutor2 from '../../../public/tutor2.jpeg'
-import tutor3 from '../../../public/tutor3.jpeg'
+import tutor1 from '../../public/tutor1.png'
+import tutor2 from '../../public/tutor2.jpeg'
+import tutor3 from '../../public/tutor3.jpeg'
 
 import Image from 'next/image'
 

@@ -1,8 +1,8 @@
-import golden from '../../../public/golden.png'
-import royal from '../../../public/royal.png'
-import primier from '../../../public/primier.png'
-import whiskas from '../../../public/whiskas.png'
-import natural from '../../../public/natural.png'
+import golden from '../../public/golden.png'
+import royal from '../../public/royal.png'
+import primier from '../../public/primier.png'
+import whiskas from '../../public/whiskas.png'
+import natural from '../../public/natural.png'
 import Image from 'next/image'
 
 

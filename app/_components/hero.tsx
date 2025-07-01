@@ -1,7 +1,7 @@
 import { MessageCircle } from 'lucide-react';
 
-import dogImg from '../../../public/hero-dog.webp'
-import catImg from '../../../public/cat-hero.png'
+import dogImg from '../../public/hero-dog.webp'
+import catImg from '../../public/cat-hero.png'
 import Image from 'next/image'
 
 
