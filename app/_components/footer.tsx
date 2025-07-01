@@ -50,7 +50,7 @@ export function Footer() {
             <p className='mb-4'>Cuidando do seu melhor amigo com amor e dedicação.</p>
             <a
             target='_blank'
-                href={`https://wa.me/5519997050303?text=Ola vim pelo site EspaçoPet`}
+                href={`https://wa.me/553399464331?text=Ola vim pelo site EspaçoPet`}
                 className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
               >
                 <Image src="/whatsapp.svg" alt="WhatsApp" width={32} height={32} />
@@ -62,7 +62,7 @@ export function Footer() {
           <div>
             <h3 className='text-2xl font-semibold mb-2'>Contatos</h3>
             <p>Email: teste@teste.com</p>
-            <p>Telefone: (XX) 1231831238</p>
+            <p>Telefone: (33) 99464331</p>
             <p>Av. Dr. Rubens boechat, centro, lajinha | MG</p>
           </div>
 

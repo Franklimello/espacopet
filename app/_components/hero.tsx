@@ -45,7 +45,7 @@ export function Hero() {
               data-aos="fade-up"
               data-aos-delay="500"
               target='_blank'
-              href={`https://wa.me/5519997050303?text=Ola vim pelo site EspaçoPet`}
+              href={`https://wa.me/553399464331?text=Ola vim pelo site EspaçoPet`}
               className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
             >
               <MessageCircle className='w-5 h-5' />

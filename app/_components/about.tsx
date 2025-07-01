@@ -63,16 +63,18 @@ export function About() {
             <div className="flex gap-2">
               <a
                 target='_blank'
-                href={`https://wa.me/5519997050303?text=Ola vim pelo site EspaçoPet`}
+                href={`https://wa.me/553399464331?text=Ola vim pelo site EspaçoPet`}
                 className="bg-[#E84C3D] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
               >
                 <MessageCircle className="w-5 h-5 text-white" />
                 Contato via WhatsApp
               </a>
 
-              <a
-                href="#"
-                className=" flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
+             <a
+                href="https://maps.app.goo.gl/PFh7gYGWp8oAB65N9"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
               >
                 <MapPin className="w-5 h-5 text-black" />
                 Endereço da loja

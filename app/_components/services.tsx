@@ -94,8 +94,8 @@ export function Services(){
                                                     <span>{item.duration}</span>
                                                 </div>
                                                 <a target='_blank'
-                href={`https://wa.me/5519997050303?text=Ola vim pelo site EspaçoPet, gostaria de imformaçoes sobre ${item.title}`} className="flex items-center justify-center gap-2 hover:bg-red-500 px-4 py-1 rounded-md duration-300">
-                                                    
+                href={`https://wa.me/553399464331?text=Ola vim pelo site EspaçoPet, gostaria de imformaçoes sobre ${item.title}`} className="flex items-center justify-center gap-2 hover:bg-red-500 px-4 py-1 rounded-md duration-300">
+
                                                     <MessageCircle className="w-5 h-5"/>
                                                     Entrar em contato
                                                 </a>
